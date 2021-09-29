@@ -1,0 +1,418 @@
+@media(max-width: 2500px){
+    .wallets-img{
+        margin-left: 650px;
+    }
+}
+@media(max-width: 2000px){
+    .wallets-img{
+        margin-left: 450px;
+    }
+}
+@media (max-width: 1800px){
+    .wallets-img{
+        margin-left: 400px;
+    }
+}
+@media (max-width: 1650px){
+    .wallets-img{
+        margin-left: 250px;
+    }
+}
+@media (max-width: 1480px){
+    .wallets-img{
+        margin-left: 150px
+    }
+    .info-block-right,
+    .info-block-image {
+        font-size: 14px;
+        margin-left: 40px;
+    }
+    .description-list {
+        background-position-x: -274px;
+    }
+    .description-list {
+        padding-top: 30px;
+        padding-bottom: 32px;
+    }
+    .reviews {
+
+        padding-top: 39px;
+    }
+    .reviews-headline {
+        margin-bottom: 33px;
+    }
+    .reviews-comments{
+        margin-left: -85px;
+    }
+}
+@media (max-width: 1300px){
+    .red-stripe {
+        padding-top: 42px;
+        padding-bottom: 40px;
+    }
+    .red-stripe-text {
+        font-size: 20px;
+    }
+    .info-block-left {
+        padding-left: 145px;
+    }
+    .description-list {
+        background-position-x: -346px
+    }
+    .description-list-li {
+        font-size: 13px;
+    }
+    .description-list {
+        padding-top: 45px;
+        padding-bottom: 41px;
+    }
+    .reviews-comments {
+        margin-left: -160px;
+    }
+    .reviews {
+        padding-bottom: 10px;
+    }
+}
+@media (max-width: 1199px){
+    .wallets-img{
+        margin-left: 25px;
+    }
+    .order-now-window {
+        margin-left: 75px;
+    }
+    .info-block-left {
+        padding-left: 25px;
+    }
+    .info-block-right, .info-block-image {
+        font-size: 14px;
+        margin-left: 5px;
+    }
+    .info-block-text {
+        font-size: 14px;
+    }
+    .description-list {
+        background-position-x: -490px;
+    }
+    .description-list-li {
+        font-size: 11px;
+    }
+    .description-list {
+        padding-top: 35px;
+        padding-bottom: 11px;
+    }
+    .description-list-left {
+        margin-left: 220px;
+    }
+    .description-list-right {
+        margin-left: 0px;
+    }
+    .reviews-comments {
+        margin-left: -245px;
+    }
+    .comment-text {
+        font-size: 13px;
+    }
+    .reviews {
+        padding-bottom: 7px;
+    }
+    .footer {
+        padding-bottom: 10px;
+        padding-top: 23px;
+    }
+    .footer-text-block {
+        font-size: 12px;
+    }
+}
+@media (max-width: 991px){
+    .header a.header-link {
+        font-size: 10px;
+        margin-top: 6px;
+    }
+    .header-link-heavy {
+        font-size: 14px;
+    }
+    .header-link-lite {
+        font-size: 6px;
+    }
+    .upper-block {
+        padding-top: 25px;
+    }
+    .red-stripe-text{
+        font-size: 15px;
+    }
+    .info-block {
+        padding-top: 10px;
+    }
+    .info-block-headline {
+        margin-bottom: 10px;
+    }
+    .wallets-img{
+        margin: 0 auto;
+        margin-top: 100px;
+    }
+    .order-now-window{
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    .info-block-left{
+        text-align: center;
+        padding-left: 220px;
+    }
+    .info-block-right{
+        text-align: center;
+        margin-top: -20px;
+        margin-left: 250px;
+    }
+    .info-block-image{
+        margin-left: 250px;
+    }
+    .info-block-video {
+        margin-left: -160px;
+    }
+    .description-list-li {
+        font-size: 11px;
+    }
+    .description-list {
+        padding-top: 33px;
+    }
+    .text1{
+        margin-left: -25px;
+    }
+    .text2{
+        margin-left: -25px;
+        margin-bottom: -10px;
+    }
+    .text3{
+        margin-left: -55px;
+        margin-bottom: -40px;
+    }
+    .info-block-video {
+        margin-left: -225px;
+        margin-bottom: 10px;
+    }
+    .info-block-image {
+        margin-left: 193px;
+    }
+    .description-list{
+        padding-top: 50px;
+        padding-bottom: 62px;
+    }
+    .description-list-ul{
+        margin-left: -150px;
+    }
+    .description-list-right {
+        margin-left: -25px;
+    }
+    .description-lower {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .description-lower-text {
+        font-size: 12px;
+        text-align: center;
+    }
+    .reviews{
+        padding-top: 25px;
+        padding-bottom: 23px;
+    }
+    .reviews-headline{
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+    .reviews-comments{
+        margin-left: -340px;
+    }
+    .comment-text {
+        font-size: 13px;
+    }
+    .headline-black {
+        font-size: 23px;
+    }
+    .lower-headline {
+        font-size: 13px;
+    }
+    .footer {
+        padding-bottom: 19px;
+        padding-top: 15px;
+    }
+    .footer-link {
+        font-size: 13px;
+    }
+    .footer-text-block {
+        font-size: 10px;
+        margin-top: 10px;
+    }
+}
+@media (max-width: 767px){
+    .header a.header-link {
+        font-size: 8px;
+    }
+    .header-link-heavy {
+        font-size: 10px;
+    }
+    .header-link-lite{
+        font-size: 5px;
+    }
+    .upper-block {
+        padding-top: 12px;
+    }
+    .wallets-img {
+        margin-left: 90px;
+    }
+    .headline-black {
+        font-size: 17px;
+    }
+    .lower-headline {
+        font-size: 10px;
+    }
+    .order-now-window {
+        margin-left: 130px;
+    }
+    .red-stripe-text {
+        font-size: 13px;
+    }
+    .text1 {
+        margin-left: -150px;
+    }
+    .text2 {
+        margin-left: -150px;
+    }
+    .text3 {
+        margin-left: -175px;
+    }
+    .info-block-image {
+        margin-left: 80px;
+        margin-bottom: 0px;
+    }
+    .description-list{
+        background-position-x: -630px;
+        padding-top: 43px;
+        padding-bottom: 62px;
+    }
+    .description-list-headline {
+        font-size: 18px;
+    }
+    .description-list-li {
+        font-size: 9px;
+        margin-bottom: 15px;
+    }
+    .description-list-ul {
+        list-style-position: inside;
+    }
+    .description-list-left {
+        margin-left: 390px;
+    }
+    .description-list-right {
+        display: none;
+    }
+    .description-lower {
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    .description-lower-text {
+        font-size: 10px;
+    }
+    .reviews {
+        padding-bottom: 28px;
+    }
+    .reviews-headline {
+        font-size: 16px;
+    }
+    .comment-headline {
+        font-size: 10px;
+    }
+    .image {
+        margin-left: -30px;
+    }
+    .comment-text {
+        font-size: 8px;
+        margin-top: 16px;
+    }
+    .footer {
+        padding-bottom: 7px;
+        padding-top: 15px;
+    }
+    .footer-link {
+        font-size: 11px;
+    }
+    .footer-text-block {
+        font-size: 8px;
+        margin-top: 5px;
+    }
+}
+@media (max-width: 600px){
+    .header-link-lite {
+        font-size: 4px;
+    }
+    .header-link-heavy {
+        font-size: 9px;
+    }
+    .headline-black {
+        font-size: 14px;
+        margin-bottom: 8px;
+    }
+    .lower-headline {
+        font-size: 8px;
+        line-height: 14px;
+    }
+    .header a.header-link {
+        font-size: 7px;
+    }
+    .wallets-img {
+        margin-left: 4px;
+    }
+    .order-now-window {
+        margin-left: 72px;
+    }
+    .red-stripe-text {
+        font-size: 11px;
+    }
+    .info-block-headline {
+        font-size: 21px;
+    }
+    .info-block-text {
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .text1 {
+        margin-left: -205px;
+    }
+    .text2 {
+        margin-left: -205px;
+    }
+    .text3 {
+        margin-left: -230px;
+    }
+    .info-block-image {
+        margin-left: 27px;
+    }
+    .description-list-headline {
+        font-size: 16px;
+    }
+    .description-list {
+        background-position-x: -705px;
+        padding-bottom: 55px;
+    }
+    .description-list-ul {
+        margin-left: -189px;
+    }
+    .image {
+        background-size: cover;
+        width: 90px;
+        height: 75px;
+    }
+    .comment-text {
+        font-size: 7.3px;
+    }
+    .footer {
+        padding-top: 12px;
+    }
+    .footer-link {
+        font-size: 9px;
+    }
+    .footer-text-block {
+        font-size: 7px;
+    }
+
+}
+
